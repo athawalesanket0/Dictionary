@@ -1,0 +1,8 @@
+Apple:A fruit with a red or green skin
+Bicycle:A two-wheeled vehicle powered by pedals
+Guitar:A musical instrument with strings
+Lion:A large wild cat
+Rainbow:A meteorological phenomenon
+Sun:The star at the center of our solar system
+Violin:A musical instrument with strings
+Zebra:A black-and-white striped mammal
